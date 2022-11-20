@@ -17,8 +17,8 @@
 | ***** | 1 | ABCDE |
 
 5. Write a program to input the value of x and n and print the sum of the following series:
-    - 1 +x+x^2^ +x^3^ +x^4^ +. .......... x^n^
-    - 1-x+x^2^-x^3^+x^4^ ................... x^n^
+    - 1 +x+x<sup>2</sup> +x<sup>3</sup> +x<sup>4</sup> +. .......... x<sup>n</sup>
+    - 1-x+x<sup>2</sup>-x<sup>3</sup>+x<sup>4</sup> ................... x<sup>n</sup>
     - x - $\frac{x^2}{2}$ + $\frac{x^3}{3}$ - $\frac{x^4}{4}$ + ............ $\frac{x^n}{n}$
     - x + $\frac{x^2}{2!}$ - $\frac{x^3}{3!}$ + $\frac{x^4}{4!}$ .............. $\frac{x^n}{n!}$
 
