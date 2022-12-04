@@ -6,4 +6,4 @@ for i in range(rec-1):
     cur[0] = cur[1]
     cur[1] = fib[-1]
 
-print("\n".join([str(n) for n in fib]))
+print(f"Term of series:", fib[-1])
